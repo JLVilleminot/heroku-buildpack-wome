@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "Buildpack wome detected"
+exit 0

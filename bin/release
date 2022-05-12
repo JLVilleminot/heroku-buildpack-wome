@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "--- {} finito"
+exit 0
